@@ -276,3 +276,71 @@ a{
     margin-top: 165px;
     /* margin-top: 70px; */
 }
+
+.heading{
+    text-align: center;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 123.6%;
+    margin-top: 40px;
+    text-transform: capitalize;
+    color: #2B2B2B;
+}
+
+.edu-div{
+    width: 940px;
+    background-color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding: 47px 29px 38px 40px;
+}
+
+.edu-section{
+    display: flex;
+    justify-content: space-between;
+}
+.edu-name{
+    width: 40%;
+}
+.edu-desc{
+    width: 60%;
+}
+
+.edu-text-1{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.6%;
+    text-transform: capitalize;
+    color: #2B2B2B;
+}
+.edu-text-2{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+    color: #2B2B2B;
+}
+.edu-text-3{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-feature-settings: 'calt' off, 'kern' off;
+    color: #767676;
+}
+
+.duration{
+    background-color: #91D8E4;
+    width: 111px;
+    height: 18px;
+    color: #000000;
+    padding: 0 5px 0 5px;
+    font-size: 14px;
+    margin-left: 10px;
+}
